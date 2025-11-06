@@ -37,11 +37,6 @@ body{
   width:60px;
 }
 
-.s4 {
-  bottom: 5%;
-  left: 85%;
-  width:60px;
-}
 
 .character:hover {
   transform: scale(1.5);
