@@ -6,6 +6,7 @@ function Page4() {
     <div>
       <Bg></Bg>
       <Heading style={{color:"rgb(64,76,66)"}} />
+      
     </div>
   );
 }
