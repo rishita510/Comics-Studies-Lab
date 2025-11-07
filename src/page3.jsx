@@ -24,6 +24,13 @@ function Page3() {
          <img src={s4} alt="Character 4" className="character s4" />
        </div>
      </div>
+//       <img src={c2} alt="Comic 2" className="comic-img" />
+//       <div className="characters-container">
+//         <img src={s1} alt="Character 1" className="character s1" />
+//         <img src={s2} alt="Character 2" className="character s2" />
+//         <img src={s3} alt="Character 3" className="character s3" />
+//       </div>
+//     </div>
   );
 }
 export default Page3;
