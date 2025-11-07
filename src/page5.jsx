@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import Bg from "./components/bg.jsx";
 import "./page5.css";
-
+ 
 // Faculty images
 import p1 from "./assets/p1.png";
 import p2 from "./assets/p2.png";
@@ -42,7 +42,7 @@ function Page5() {
     <div className="page5-container">
       <Bg />
 
-      <h1 className="main-title left-heading">Comics Studies Lab @ IITJ</h1>
+      <h1 className="page5-heading">Comics Studies<br />Lab@IITJ</h1>
 
       {/* Faculty Section */}
       <div className="faculty-section">
