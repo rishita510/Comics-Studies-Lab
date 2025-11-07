@@ -93,6 +93,7 @@
   position: absolute;
   height: 70px;       /* size of statue */
   object-fit: contain;
+  transition: all 0.3s ease-in-out;
 }
 
 /* Individual positioning – adjust freely */
@@ -109,4 +110,9 @@
 .statue3 {
   top: 75%;
   right: 75%;
+}
+
+
+.statue:hover {
+  transform: scale(1.5);
 }
