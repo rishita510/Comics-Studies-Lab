@@ -13,6 +13,10 @@ import './page4.css';
 function Page4() {
   
   return (
+    <div>
+      <Bg></Bg>
+      <Heading style={{color:"rgb(64,76,66)"}} />
+      
     <div className="page4-container">
       <Bg/>
       <Heading style={{ color: "rgb(64,76,66)" }} />
