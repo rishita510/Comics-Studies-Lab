@@ -75,7 +75,8 @@ function Page4() {
         </div>
       </div>
     </div>
-  );
+    </div>
+  
+);
 }
-
 export default Page4;
