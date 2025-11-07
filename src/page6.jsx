@@ -13,15 +13,12 @@ function Page6() {
       <h1 className="page6-heading">Comics Studies<br />Lab@IITJ</h1>
 
       <div className="register-section">
-<<<<<<< HEAD
-        <div className="register-link"><Link to="/page7">Please register</Link></div>
-=======
-        <Link to="/page7" className="register-link">
-          Please register
-        </Link>
->>>>>>> 50a662103d504ab08c4306f4f5dae8318cccf1b6
-      </div>
+  <div className="register-link">
+    <Link to="/page7">Please register</Link>
+  </div>
+</div>
     </div>
+    
   );
 }
 
