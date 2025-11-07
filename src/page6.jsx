@@ -1,8 +1,8 @@
 import React from "react";
 import "./page6.css";
 import Bg from "./components/bg.jsx";
+import { useNavigate } from "react-router-dom";
 import { Link } from "react-router-dom";
-
 
 function Page6() {
   return (
